@@ -1,14 +1,24 @@
-{
+programa{
    funcao inicio ()
    {
       inteiro num1
       escreva("Digite um número inteiro: ")
+<<<<<<< HEAD
       ler(num1)
       escreva("O número digitado foi: ", num1, "\n")
+=======
+      leia(numero)
+      escreva("O número digitado foi: ", numero, "\n")
+>>>>>>> test
 
 	inteiro num2
       escreva("Digite um número inteiro: ")
+<<<<<<< HEAD
       ler(num2)
       escreva("O segundo número digitado foi: ", num2, "\n")
+=======
+      leia(numero2)
+      escreva("O segundo número digitado foi: ", numero2, "\n")
+>>>>>>> test
    }
 }
